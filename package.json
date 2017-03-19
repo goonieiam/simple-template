@@ -1,0 +1,25 @@
+{
+  "name": "simple-template",
+  "version": "0.1.0",
+  "description": "A simple template you can start your projects from",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goonieiam/simple-template.git"
+  },
+  "keywords": [
+    "htm5",
+    "template",
+    "html5",
+    "boilerplate"
+  ],
+  "author": "goonieiam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goonieiam/simple-template/issues"
+  },
+  "homepage": "https://github.com/goonieiam/simple-template#readme"
+}
